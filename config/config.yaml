@@ -1,0 +1,25 @@
+data:
+  input_dir: data/input
+  output_dir: data/output
+  supported_formats:
+  - .jpg
+  - .jpeg
+  - .png
+  - .bmp
+  - .tiff
+logging:
+  file_path: null
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  level: INFO
+model:
+  device: null
+  force_reload: false
+  name: small
+visualization:
+  colormap: inferno
+  dpi: 300
+  figsize:
+  - 15
+  - 6
+  overlay_alpha: 0.6
+  save_format: png
