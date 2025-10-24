@@ -2,6 +2,9 @@
 
 A comprehensive implementation of depth estimation from single images using Intel's MiDaS models. This project provides multiple interfaces (CLI, Web UI, Python API) with enhanced visualization, configuration management, and robust error handling.
 
+<img width="1485" height="471" alt="Screenshot 2025-09-14 at 9 15 35 PM" src="https://github.com/user-attachments/assets/48c3f1c8-f829-4d3e-a817-c50ece43fb28" />
+<img width="1486" height="450" alt="Screenshot 2025-09-14 at 9 15 52 PM" src="https://github.com/user-attachments/assets/8bc97149-c0ae-40a9-bafe-c1e822b0fb2a" />
+
 ## Features
 
 - **Multiple MiDaS Models**: Support for small, medium, large, and hybrid DPT models
@@ -315,6 +318,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [DPT (Dense Prediction Transformer)](https://github.com/isl-org/DPT)
 - [MiDaS v3](https://github.com/isl-org/MiDaS/releases/tag/v3_1)
 - [Depth Anything](https://github.com/DepthAnything/Depth-Anything)
-
-
-# Depth-Estimation-from-Monocular-Images
